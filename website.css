@@ -1,0 +1,14 @@
+.hero {
+  height: 90vh;
+  background-image: url("https://via.placeholder.com/1200x600");
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+
+.card {
+  margin-top: 20px;
+}
